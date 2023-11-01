@@ -40,12 +40,11 @@ src
 |   |   |   |-- Praktikum.java
 |-- test
 |   |-- java
-|   |   |-- BunMockTest.java
 |   |   |-- BunParameterizedTest.java
-|   |   |-- BurgerTest.java
-|   |   |-- DatabaseTest.java
-|   |   |-- IngredientMockTest.java
+|   |   |-- BunTest.java
+|   |   |-- BurgerMockTest.java
 |   |   |-- IngredientParameterizedTest.java
+|   |   |-- IngredientTest.java
 .gitignore
 pom.xml
 README.md
